@@ -28,7 +28,7 @@ export function About() {
             <div className="relative">
               <div className="w-64 h-64 sm:w-80 sm:h-80 mx-auto lg:mx-0 rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl">
                 <ImageWithFallback 
-                  src="src/photos/photo1.jpeg"
+                  src="/photos/photo1.jpeg"
                   alt="Bipin Acharya - Profile"
                   className="w-full h-full object-cover"
                 />

@@ -64,7 +64,7 @@ export function Hero() {
                 View Projects
               </Button>
                <a 
-      href="/src/photos/Bipin_Acharya.pdf" 
+      href="/photos/Bipin_Acharya.pdf" 
       target="_blank" 
       rel="noopener noreferrer"
     >
@@ -89,7 +89,7 @@ export function Hero() {
               
               <div className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl ring-4 sm:ring-8 ring-white/20 backdrop-blur-sm">
                 <ImageWithFallback 
-                  src="src/photos/photo1.jpeg"
+                  src="/photos/photo1.jpeg"
                   alt="Bipin Acharya - Professional Photo"
                   className="w-full h-full object-cover"
                 />

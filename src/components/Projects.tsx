@@ -13,7 +13,7 @@ export function Projects({ onProjectClick }: ProjectsProps) {
     id: 1,
     title: "iLearning Solution",
     description: "A modern learning platform where users can buy courses and learn efficiently with a dynamic and interactive interface.",
-    image: "src/photos/Project1.png",
+    image: "/photos/Project1.png",
     technologies: ["React", "UI/UX Design", "Business Analysis", ],
     category: "Web Platform",
     gradient: "from-blue-500 to-cyan-500"
@@ -22,7 +22,7 @@ export function Projects({ onProjectClick }: ProjectsProps) {
     id: 2,
     title: "SeaWave Bistro",
     description: "Food truck and catering business in Adelaide with website, social media management, and operational support for events and functions.",
-    image: "src/photos/Project2.png",
+    image: "/photos/Project2.png",
     technologies: ["Business Planning", "Website Development", "Social Media Management", "Canva"],
     category: "Business & Web",
     gradient: "from-purple-500 to-pink-500"
@@ -31,7 +31,7 @@ export function Projects({ onProjectClick }: ProjectsProps) {
     id: 3,
     title: "Meal Mentor",
     description: "A POS and restaurant ordering system for small-scale restaurants in Nepal, enabling mobile order tracking and financial management.",
-    image: "src/photos/Project3.png",
+    image: "/photos/Project3.png",
     technologies: ["Flutter", "Mobile App Development", "UI/UX Design", "POS Systems"],
     category: "Mobile App",
     gradient: "from-green-500 to-teal-500"
@@ -40,7 +40,7 @@ export function Projects({ onProjectClick }: ProjectsProps) {
     id: 4,
     title: "Hamro Sadan",
     description: "A vehicle rental platform in Nepal connecting users and rental shops, enabling easy booking, tracking, and business growth.",
-    image: "src/photos/Project4.png",
+    image: "/photos/Project4.png",
     technologies: ["Flutter", "Mobile App Development", "UI/UX Design", "POS Systems", "Laravel", "Vehicle Renting System", "Firebase"],
     category: "Mobile App",
     gradient: "from-orange-500 to-red-500"
@@ -49,7 +49,7 @@ export function Projects({ onProjectClick }: ProjectsProps) {
     id: 5,
     title: "Chi-Chi (Meat Delivery App)",
     description: "A mobile app connecting local meat shops with customers for fresh meat delivery at home, saving time and improving convenience.",
-    image: "src/photos/Project5.png",
+    image: "/photos/Project5.png",
     technologies: ["Flutter", "Firebase", "E-commerce", "Delivery Systems"],
     category: "Mobile App",
     gradient: "from-indigo-500 to-purple-500"
@@ -58,7 +58,7 @@ export function Projects({ onProjectClick }: ProjectsProps) {
     id: 6,
     title: "Packers and Movers",
     description: "A platform connecting customers with trusted packers and movers for home and office relocation in Nepal with order tracking and service management.",
-    image: "src/photos/Project6.png",
+    image: "/photos/Project6.png",
     technologies: ["Flutter", "Laravel", "Firebase", "Google Maps API"],
     category: "Mobile App",
     gradient: "from-pink-500 to-rose-500"
