@@ -24,7 +24,7 @@ export function Achievements() {
   icon: Star,
   title: "Launched SeaWave Bistro",
   description: "Co-founded a food truck business in Adelaide offering catering services, while managing its digital restaurant platform and online presence.",
-  year: "2023",
+  year: "2025",
   category: "Entrepreneurship",
   gradient: "from-green-500 to-teal-500"
 },
