@@ -115,7 +115,7 @@ export function About() {
             {/* Large Download CV Button */}
             <div className="pt-4 sm:pt-6 text-center lg:text-left">
               <a 
-      href="/src/photos/Bipin_Acharya.pdf" 
+      href="/photos/Bipin_Acharya.pdf" 
       target="_blank" 
       rel="noopener noreferrer"
     >
